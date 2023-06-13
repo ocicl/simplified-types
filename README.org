@@ -1,0 +1,10 @@
+* simplified-types
+
+Simplification of Common Lisp type specifiers.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/marcoheisig/simplified-types.git   |
+| commit  | 8fd0727  |
+| systems | simplified-types |
+|---------+-------------------------------------------|
+
