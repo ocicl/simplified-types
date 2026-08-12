@@ -8,4 +8,4 @@ Simplification of Common Lisp type specifiers.
 | systems | simplified-types |
 |---------+-------------------------------------------|
 
- 
+  
